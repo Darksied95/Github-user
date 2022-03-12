@@ -1,0 +1,20 @@
+#center {
+  margin: auto;
+  width: 200px;
+}
+
+#search,
+#email-address {
+  width: 200px;
+  margin: auto;
+}
+
+#search {
+  width: 100px;
+  border-radius: 5px;
+}
+
+#search:hover {
+  color: white;
+  background-color: black;
+}

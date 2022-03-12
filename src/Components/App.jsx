@@ -8,10 +8,12 @@ import Search from "./Search";
 const App = () => {
     return(
         <div>
-            <Card />
-            <Footer />
             <Header />
             <Search />
+            <Card />
+            <Footer />
+          
+            
         </div>
     )
 }
