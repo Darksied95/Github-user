@@ -15,7 +15,7 @@ class App extends Component {
     }
 
 componentDidMount(){
-    this.getUser('Darksied95')
+    this.getUser('')
 }
 
     getUser = (username)=> {
